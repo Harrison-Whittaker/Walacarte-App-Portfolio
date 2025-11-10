@@ -11,4 +11,5 @@ Note: This is a sample of Walacarte's code; the complete source code is maintain
 - New Pantry/Inventory screen for ingredients you may already have in your kitchen
 - Ingredient support for Quick List
 - Dedicated Meal Plan creator
+- Recipe Importer
 - Much, much more
