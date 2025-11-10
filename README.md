@@ -8,7 +8,7 @@ Note: This is a sample of Walacarte's code; the complete source code is maintain
 
 **Future Features**
 - Landscape Support for View Recipe Screen
-- New Pantry screen for ingredients you may already have in your kitchen
+- New Pantry/Inventory screen for ingredients you may already have in your kitchen
 - Ingredient support for Quick List
 - Dedicated Meal Plan creator
 - Much, much more
